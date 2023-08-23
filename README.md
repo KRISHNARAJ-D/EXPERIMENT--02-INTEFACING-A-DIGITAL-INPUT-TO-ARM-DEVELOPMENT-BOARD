@@ -108,8 +108,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
- ![PM OUTPUT 2](https://github.com/KRISHNARAJ-D/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119559695/90ad0e7a-4b93-46cc-9ea6-04c4f062a6c3)
+ <img height=30% width=50% src="https://github.com/KRISHNARAJ-D/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119559695/90ad0e7a-4b93-46cc-9ea6-04c4f062a6c3">
 
  
  
