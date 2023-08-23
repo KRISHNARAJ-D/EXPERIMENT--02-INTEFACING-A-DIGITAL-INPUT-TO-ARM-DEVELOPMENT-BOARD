@@ -12,12 +12,11 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
    * PA5  -> GPIO Output
    * PC13 -> GPIO Input
 3. Configure the PC13 Port at Pull up Mode
-4. Acquire the code  
-5. Write the function a
+4. Generate the code  
+5. Write the function(Declare,Define,Call)
 6. Bulid Debug  
-7. connect the  ARM board to power supply and usb 
-8. check for execution of the output using run option
-
+7. Connect the  ARM board to usb 
+8. Check for execution of the output using run option
 
 ## STM 32 CUBE PROGRAM :
 ~~~
